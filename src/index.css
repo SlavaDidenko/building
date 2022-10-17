@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-[#F7F7F7];
+}
+
+
+
+.hamburger-react {
+  display: none;
+  position: relative;
+  z-index: 1000;
+}
+@media(max-width: 767px) {
+  .hamburger-react {
+    display: block;
+  }
+}
