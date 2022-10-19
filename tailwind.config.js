@@ -29,7 +29,7 @@ module.exports = {
         dashed: 'url(../assets/dashed.svg)',
         darkDashed: 'url(../assets/dark-dashed.svg)',
         triangle: 'url(../assets/triangle.svg)',
-        greyBgImg: 'url(../assets/grey-bg.svg)',
+        greyBgImg: 'url(../assets/Rectangle 7.png)',
         darkTriangle: 'url(../assets/dark-triangle.svg)',
         greyBgImg2: 'url(../assets/grey-bg2.svg)',
         build: 'url(../assets/build.png) , url(../assets/grey-bg2.svg)',

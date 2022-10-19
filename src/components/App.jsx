@@ -8,7 +8,7 @@ import Section3 from './Section3/Section3';
 
 export const App = () => {
   return (
-    <div className='2xl:container z-20 overflow-hidden relative'>
+    <div className=' z-20 overflow-hidden relative'>
       <Header />
       <main className=''>
         <Hero />

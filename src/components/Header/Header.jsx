@@ -48,7 +48,7 @@ const Header = () => {
   console.log(t)
 
   return (
-    <header className="2xl:container z-50 w-full absolute top-0 left-1/2 translate-x-[-50%] py-[30px]">
+    <header className=" z-50 w-full absolute top-0 left-1/2 translate-x-[-50%] py-[30px]">
       <div className="relative mx-auto px-[30px] md:px-[50px]">
         <div className=" flex items-center justify-between">
           <a href="#" className="pr-[30px]">

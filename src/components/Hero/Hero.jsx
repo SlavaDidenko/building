@@ -9,7 +9,7 @@ const Hero = () => {
       className=" h-[593px] bg-building bg-center bg-no-repeat"
     >
       <div className=" container max-w-[1165px] mx-auto md:px-[30px]">
-        <div className="md:p-5 w-fit h-[577px] absolute left-[30px] lgBig:left-[180px] top-[140px] md:top-[350px] before:absolute  before:h-[760px]  before:w-[760px]  before:bg-brown  before:block before:rotate-45 before:bottom-[-90px] before:md:bottom-[-46px] before:left-[-260px]">
+        <div className="md:p-5 w-fit h-[577px] absolute left-[30px] lgBig:left-[180px] top-[140px] md:top-[350px] before:absolute  before:h-[760px]  before:w-[760px]  before:bg-brown  before:block before:rotate-45 before:bottom-[40px] before:md:bottom-[-46px] before:left-[-260px]">
           <div
             className=" pb-[50px] md:pb-[73px] px-[22px] max-w-[522px] relative
           before:absolute before:h-[calc(100%-30px)] before:w-[2px] before:bg-no-repeat before:bg-dashed before:left-0 before:top-[10px]"

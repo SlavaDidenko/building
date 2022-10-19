@@ -7,12 +7,13 @@ const Achievement = () => {
     [12000, 'Active Fix or Repire Projects'],
     [26000, 'Finished Projects'],
   ];
-
+  // before:absolute before:h-[594px] before:bg-[#EBEBEB] before:w-screen before:left-[100%] before:top-[10px]
   return (
     <section
       style={{ backgroundPosition: 'right 10px', backgroundSize: '80%' }}
-      className=" pt-[290px] lg:pt-0 max-w-[1512px] m-auto w-full lg:bg-greyBgImg bg-no-repeat min-h-[790px]"
-    >
+      className=" pt-[290px] lg:pt-0 max-w-[1512px] m-auto w-full lg:bg-greyBgImg bg-no-repeat min-h-[790px]
+      "
+    ><div className=' relative before:absolute before:h-[594px] before:bg-[#EBEBEB] before:w-screen before:left-[100%] before:top-[10px]'>
       <div className=" relative container max-w-[1165px] px-[30px] flex justify-end">
         <div>
           <ul className=" mt-[80px] pl-[28px] pb-[62px] pr-[40px] lg:pr-[66px] max-w-[522px] relative before:absolute before:h-[calc(100%-30px)] before:w-[2px] before: bg-no-repeat before:bg-darkDashed before:left-0 before:top-[14px]">
@@ -36,7 +37,8 @@ const Achievement = () => {
         <div className=" absolute opacity-30 lg:opacity-100 block left-[130px] bottom-[-268px]">
           <img src={mainPict} alt="main-pict" />
         </div>
-      </div>
+        </div>
+        </div>
     </section>
   );
 };
