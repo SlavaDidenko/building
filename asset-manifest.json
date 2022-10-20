@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/building/static/css/main.6912db88.css",
-    "main.js": "/building/static/js/main.89fb0615.js",
+    "main.css": "/building/static/css/main.03ca7172.css",
+    "main.js": "/building/static/js/main.7896c67f.js",
     "static/media/building.png": "/building/static/media/building.71148c124cd3d45bb7bf.png",
     "static/media/build.png": "/building/static/media/build.813713ab2ab464f4e3a5.png",
     "static/media/build-03.png": "/building/static/media/build-03.36bdf059db4a82b0fe3a.png",
     "static/media/bg-section2.png": "/building/static/media/bg-section2.a3b589e396727dc1ddc9.png",
     "static/media/main-pict.png": "/building/static/media/main-pict.2e2b0ff58719455a8e11.png",
     "static/media/man_phone.png": "/building/static/media/man_phone.64706388bc1d36d502ec.png",
+    "static/media/Rectangle 7.png": "/building/static/media/Rectangle 7.4cb1fb29a31ff26fb76e.png",
     "static/media/slick.svg": "/building/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/building/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/building/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/building/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/building/index.html",
-    "static/media/grey-bg2.svg": "/building/static/media/grey-bg2.74600f1c02472a53d8d7.svg",
     "static/media/getFetch.cjs": "/building/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/grey-bg3.svg": "/building/static/media/grey-bg3.158628d1d849add290c2.svg",
-    "static/media/grey-bg.svg": "/building/static/media/grey-bg.686639c58f9697cc9f13.svg",
+    "static/media/grey-bg2.svg": "/building/static/media/grey-bg2.df7cee6678e907c071e5.svg",
     "static/media/dark-triangle.svg": "/building/static/media/dark-triangle.8166a833e5714587a991.svg",
     "static/media/triangle.svg": "/building/static/media/triangle.c92d1ed433b4fb3aa248.svg",
     "static/media/dark-dashed.svg": "/building/static/media/dark-dashed.3028ccdfcd484f822a27.svg",
     "static/media/dashed.svg": "/building/static/media/dashed.729a3c6ae10ef838b479.svg",
-    "main.6912db88.css.map": "/building/static/css/main.6912db88.css.map",
-    "main.89fb0615.js.map": "/building/static/js/main.89fb0615.js.map"
+    "main.03ca7172.css.map": "/building/static/css/main.03ca7172.css.map",
+    "main.7896c67f.js.map": "/building/static/js/main.7896c67f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6912db88.css",
-    "static/js/main.89fb0615.js"
+    "static/css/main.03ca7172.css",
+    "static/js/main.7896c67f.js"
   ]
 }
